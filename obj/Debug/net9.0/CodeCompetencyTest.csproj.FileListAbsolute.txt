@@ -1,0 +1,14 @@
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.AssemblyInfoInputs.cache
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.AssemblyInfo.cs
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\bin\Debug\net9.0\CodeCompetencyTest.exe
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\bin\Debug\net9.0\CodeCompetencyTest.deps.json
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\bin\Debug\net9.0\CodeCompetencyTest.runtimeconfig.json
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\bin\Debug\net9.0\CodeCompetencyTest.dll
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\bin\Debug\net9.0\CodeCompetencyTest.pdb
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.dll
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\refint\CodeCompetencyTest.dll
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.pdb
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\CodeCompetencyTest.genruntimeconfig.cache
+C:\Users\abdul\Documents\Project\.Net\Formulatrix\CodeCompetencyTest\obj\Debug\net9.0\ref\CodeCompetencyTest.dll
